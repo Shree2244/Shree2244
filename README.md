@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreelekha Lotankar</h1>
-<h3 align="center">An AI enthusiast from Mumbai, India.</h3>
-<h3 align="justify">I'm currently in my third year of pursuing a Bachelor of Technology in Artificial Intelligence.</h3>
+<h3 align="center">AI Enthusiast from Mumbai, India</h3>
+<h3 align="justify">I am currently a fourth-year student pursuing a Bachelor's degree in Technology with a focus on Artificial Intelligence. I am actively seeking opportunities to contribute to innovative projects and gain hands-on experience through internships.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shree2244&label=Profile%20views&color=0e75b6&style=flat" alt="shree2244" /> </p>
 
