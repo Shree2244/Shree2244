@@ -1,4 +1,4 @@
-![Banner - Shreelekha](Beige Simple Elegant Personal LinkedIn Banner.png)
+![Banner - Shreelekha]([Beige Simple Elegant Personal LinkedIn Banner.png](https://github.com/Shree2244/Shree2244/blob/main/Beige%20Simple%20Elegant%20Personal%20LinkedIn%20Banner.png))
 <h1 align="center">Hi 👋, I'm Shreelekha Lotankar</h1>
 <h3 align="center">AI Enthusiast from Mumbai, India</h3>
 <h3 align="justify">I am currently a fourth-year student pursuing a Bachelor's degree in Technology with a focus on Artificial Intelligence. I am actively seeking opportunities to contribute to innovative projects and gain hands-on experience through internships.</h3>
